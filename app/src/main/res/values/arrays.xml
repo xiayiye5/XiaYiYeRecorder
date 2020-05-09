@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="data">
+        <item>Java版本录音机</item>
+        <item>Kotlin版本录音机</item>
+    </string-array>
+</resources>
